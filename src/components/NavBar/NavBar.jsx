@@ -41,7 +41,7 @@ export const NavBar = () => {
                         <NavDropdown.Item href="#action4">Nintendo</NavDropdown.Item>
                         <NavDropdown.Item href="#action4">PC</NavDropdown.Item>
                         <NavDropdown.Item href="#action4">Apple</NavDropdown.Item>
-                        <NavDropdown.Item href="#action4">Andoid</NavDropdown.Item>
+                        <NavDropdown.Item href="#action4">Android</NavDropdown.Item>
                     </NavDropdown>
 
                     <Nav.Link href="#action1">Contacto</Nav.Link>

@@ -7,7 +7,7 @@ function App() {
     <>
       <div>
         <NavBar />
-        <ItemListContainer />
+        <ItemListContainer greeting= "Bienvenidos a Videoland Post" />
       </div>
     </>
   )

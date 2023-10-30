@@ -1,6 +1,8 @@
 
 export const CardWidget = () => {
   return (
-    <div>CardWidget</div>
+    <div>
+       🛒 
+    </div>
   )
 }

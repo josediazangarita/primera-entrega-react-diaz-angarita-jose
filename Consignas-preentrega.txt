@@ -1,0 +1,14 @@
+Consignas primera preentrega curso React
+
+    1. Crear una carpeta dentro de src llamada components que contenga la implementación del componente NavBar dentro del archivo NavBar.js.
+        - Su funcionalidad es la de renderizar una barra de menú.
+    
+    Objetivo: crear el menú e-commerce de mi proyecto.
+
+    Se debe entregar:
+        1. Brand (título/nombre de la tienda)
+        2. Un listado de categorías clickeables
+        3. Incorporar alguna librería de estilos con bootstrap/materialize u otro de mi preferencia (opcional).
+
+    Corroborar que el proyecto ceunte con:
+        -Componente NavBar.js
